@@ -1,2 +1,2 @@
 # rock-paper-scissors_python
-I have implemented this rock paper scissor game using python code.
+Enjoy playing rock paper scissors using python.
